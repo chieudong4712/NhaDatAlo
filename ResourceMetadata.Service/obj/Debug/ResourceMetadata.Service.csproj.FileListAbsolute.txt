@@ -1,0 +1,16 @@
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\ResourceMetadata.Service.dll.config
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\ResourceMetadata.Service.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\ResourceMetadata.Service.pdb
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\ResourceMetadata.Data.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\ResourceMetadata.Model.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\EntityFramework.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\ResourceMetadata.Data.pdb
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\ResourceMetadata.Model.pdb
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\bin\Debug\EntityFramework.xml
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\obj\Debug\ResourceMetadata.Service.csprojResolveAssemblyReference.cache
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\obj\Debug\ResourceMetadata.Service.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Service\obj\Debug\ResourceMetadata.Service.pdb

@@ -1,0 +1,51 @@
+{
+  "name": "webapi-angularjs-spa",
+  "description": "SPA Demo app with AngularJS",
+  "author": "Shiju Varghese",
+  "version": "0.5.0",
+  "repository": "https://github.com/MarlabsInc/webapi-angularjs-spa",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.3.1",
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.5.2",
+    "gulp-concat": "~2.1.7",
+    "gulp-uglify": "~0.2.1",
+    "jshint": "~2.4.3",
+    "gulp-jshint": "~1.4.2",
+    "jshint-stylish": "~0.1.5",
+    "gulp-minify-css": "~0.3.0",
+    "gulp-rename": "~1.1.0",
+    "gulp-size": "~0.1.3",
+    "gulp-clean": "~0.2.4",
+    "gulp-open": "~0.2.8",
+    "gulp-connect": "~2.0.5"
+  },
+  "scripts": {
+    "bower-install-debug": "bower install",
+    "postnpm-install-debug": "npm run-script bower-install-debug",
+    "npm-install-debug": "npm install",
+    "prestart": "npm run-script npm-install-debug",
+    "start": "http-server -a localhost -p 8000",
+
+    "grunt-release": "grunt release",
+    "postbower-install-release": "npm run-script grunt-release",
+    "bower-install-release": "bower install",
+    "postnpm-install-release": "npm run-script bower-install-release",
+    "npm-install-release": "npm install",
+    "prerelease": "npm run-script npm-install-release",
+    "release": "http-server -a localhost -p 8000",
+
+    "pretest": "npm install",
+    "test": "karma start test/karma.conf.js",
+    "test-single-run": "karma start test/karma.conf.js  --single-run",
+
+    "preupdate-webdriver": "npm install",
+    "update-webdriver": "webdriver-manager update",
+
+    "preprotractor": "npm run update-webdriver",
+    "protractor": "protractor test/protractor-conf.js",
+
+    "update-index-async": "node -e \"require('shelljs/global'); sed('-i', /\\/\\/@@NG_LOADER_START@@[\\s\\S]*\\/\\/@@NG_LOADER_END@@/, '//@@NG_LOADER_START@@\\n' + cat('app/bower_components/angular-loader/angular-loader.min.js') + '\\n//@@NG_LOADER_END@@', 'app/index-async.html');\""
+  }
+}

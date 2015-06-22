@@ -1,0 +1,12 @@
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Web\bin\ResourceMetadata.Web.dll.config
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Web\bin\ResourceMetadata.Web.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Web\bin\ResourceMetadata.Web.pdb
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.dll
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.pdb
+C:\Users\SoHai\Desktop\BIN\webapi-angularjs-spa-master\source\ResourceMetadata\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.csprojResolveAssemblyReference.cache
+D:\WORK\Code\NhadatAlo\ResourceMetadata\ResourceMetadata.Web\bin\ResourceMetadata.Web.dll.config
+D:\WORK\Code\NhadatAlo\ResourceMetadata\ResourceMetadata.Web\bin\ResourceMetadata.Web.dll
+D:\WORK\Code\NhadatAlo\ResourceMetadata\ResourceMetadata.Web\bin\ResourceMetadata.Web.pdb
+D:\WORK\Code\NhadatAlo\ResourceMetadata\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.csprojResolveAssemblyReference.cache
+D:\WORK\Code\NhadatAlo\ResourceMetadata\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.dll
+D:\WORK\Code\NhadatAlo\ResourceMetadata\ResourceMetadata.Web\obj\Debug\ResourceMetadata.Web.pdb
